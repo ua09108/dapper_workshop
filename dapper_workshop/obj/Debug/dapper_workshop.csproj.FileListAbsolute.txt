@@ -1,0 +1,8 @@
+D:\Fun_Coding\WorkShop\dapper_workshop\dapper_workshop\obj\Debug\dapper_workshop.csprojResolveAssemblyReference.cache
+D:\Fun_Coding\WorkShop\dapper_workshop\dapper_workshop\bin\Debug\dapper_workshop.exe.config
+D:\Fun_Coding\WorkShop\dapper_workshop\dapper_workshop\bin\Debug\dapper_workshop.exe
+D:\Fun_Coding\WorkShop\dapper_workshop\dapper_workshop\bin\Debug\dapper_workshop.pdb
+D:\Fun_Coding\WorkShop\dapper_workshop\dapper_workshop\bin\Debug\Dapper.dll
+D:\Fun_Coding\WorkShop\dapper_workshop\dapper_workshop\bin\Debug\Dapper.xml
+D:\Fun_Coding\WorkShop\dapper_workshop\dapper_workshop\obj\Debug\dapper_workshop.exe
+D:\Fun_Coding\WorkShop\dapper_workshop\dapper_workshop\obj\Debug\dapper_workshop.pdb
